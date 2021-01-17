@@ -1,1 +1,2 @@
-# picking-mango
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
